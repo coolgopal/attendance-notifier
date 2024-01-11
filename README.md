@@ -1,2 +1,2 @@
 # attendance-notifier
-Capture swipe in-out and send SMS
+Capture swipe in-swipe out and send SMS
